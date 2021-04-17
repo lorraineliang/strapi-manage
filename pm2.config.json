@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "name": "strapi-blog",
+      "name": "strapi-manage",
       "script": "npm",
       "args": "start"
     }
